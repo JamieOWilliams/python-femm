@@ -5,7 +5,7 @@ therefore not all commands have been wrapped.
 
 ## Introduction
 
-FEMM is a handy piece of software, although I felt it's API is not as user-friendly as it could be. The motivation
+FEMM is a handy piece of software, although I felt its API is not as user-friendly as it could be. The motivation
 behind this light framework is to improve the usability of the FEMM API and also to add some additional features,
 such as hot reloading of the model definition to aid rapid model design and multiprocessing to speed up the running
 of the analysis stage when solving for many different models.
